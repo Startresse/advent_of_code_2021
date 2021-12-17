@@ -2,7 +2,7 @@
 
 #include "Utility.h"
 
-class Day1
+class Day2
 {
 public:
 	void run() const;

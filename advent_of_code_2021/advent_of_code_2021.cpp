@@ -1,9 +1,9 @@
-#include <iostream>
 #include "Day1.h"
+#include "Day2.h"
 
 int main()
 {
-	Day1().run();
+	Day2().run();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
