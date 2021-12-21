@@ -151,9 +151,6 @@
     <ClInclude Include="Day3.h" />
     <ClInclude Include="Utility.h" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="input_d1" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

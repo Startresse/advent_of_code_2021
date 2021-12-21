@@ -45,9 +45,4 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="input_d1">
-      <Filter>Resource Files</Filter>
-    </Text>
-  </ItemGroup>
 </Project>

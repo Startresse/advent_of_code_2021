@@ -1,9 +1,10 @@
 #include "Day1.h"
 #include "Day2.h"
+#include "Day3.h"
 
 int main()
 {
-	Day2().run();
+	Day3().run();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
